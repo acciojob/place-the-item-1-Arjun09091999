@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+.three{
+	background-color:green;
+	
+	
+}
+.one{
+	background-color:red;
+	
+	
+}
+.two{
+background-color:blue;
+
+	
+}
+.holder{
+	width:100%;
+   display:flex;
+  justify-content:space-between;
+ flex-wrap:wrap;
+}
+div{
+	width:100px;
+}
